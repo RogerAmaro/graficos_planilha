@@ -1,4 +1,4 @@
-#!/home/lab-pesquisa/Desktop/projetos/Graficos Site /env/bin/python
+#!/home/lab-pesquisa/Desktop/projetos/graficos_planilha/env/bin/python
 
 import sys
 import getopt
